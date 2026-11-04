@@ -13,7 +13,7 @@
 ## 💻 Deploy do projeto
 
 * **Site Publicado (GitHub Pages):** [Clique para acessar]([https://seu-usuario.github.io/at1-site-multipaginas/](https://diogocora2008-blip.github.io/entrega/jogos.html))
-* **Repositório do Código-Fonte:** [Acessar no GitHub](https://github.com/seu-usuario/at1-site-multipaginas)
+* **Repositório do Código-Fonte:** [Acessar no GitHub]([https://github.com/seu-usuario/at1-site-multipaginas](https://github.com/DanielRib1904/portfolio-daniel-lima/tree/main/AT2-Deploy-de-Site/Projeto%20Daniel%20e%20Diogo))
 
 ---
 
