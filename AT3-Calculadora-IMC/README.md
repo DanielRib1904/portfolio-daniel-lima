@@ -31,4 +31,4 @@ Este projeto utilizou inteligência artificial (Gemini) estritamente como ferram
 
 ---
 
-[Voltar ao início]([https://github.com/seu-usuario/portfolio-usuario](https://github.com/DanielRib1904/portfolio-daniel-lima))
+[Voltar ao início]((https://github.com/DanielRib1904/portfolio-daniel-lima))
