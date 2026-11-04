@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
 badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/daniel-lima-7318b0253/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge
-&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+&logo=gmail&logoColor=white)](mailto: daniellimaribeiro94@gmailcom)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-th
 e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
