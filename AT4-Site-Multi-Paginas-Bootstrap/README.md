@@ -2,7 +2,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto consiste no desenvolvimento e publicação de um site responsivo multi-páginas composto por 5 telas interligadas, construído com **HTML5**, **CSS3** e o framework **Bootstrap 5**. O tema escolhido para a aplicação foi **[Inserir Tema Escolhido, ex: Sustentabilidade e Energia Limpa / Astronomia e Exploração Espacial]**.
+Este projeto consiste no desenvolvimento e publicação de um site responsivo multi-páginas composto por 5 telas interligadas, construído com **HTML5**, **CSS3** e o framework **Bootstrap 5**. O tema escolhido para a aplicação foi história dos videogames.
 
 O objetivo principal é mitigar a paralisia de escolha e organizar conteúdos informativos de forma acessível e estruturada, utilizando um sistema de grid robusto, componentes visuais modernos (como carrosséis, cards, tabelas e acordeons) e navegação consistente através de uma *navbar* e um *footer* padronizados em todas as páginas. O sistema foi totalmente validado e publicado online utilizando o **GitHub Pages**.
 
